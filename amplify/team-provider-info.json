@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-linearvod-dev-134252-authRole",
+            "UnauthRoleArn": "arn:aws:iam::455190698745:role/amplify-linearvod-dev-134252-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::455190698745:role/amplify-linearvod-dev-134252-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-linearvod-dev-134252-deployment",
+            "UnauthRoleName": "amplify-linearvod-dev-134252-unauthRole",
+            "StackName": "amplify-linearvod-dev-134252",
+            "StackId": "arn:aws:cloudformation:us-west-2:455190698745:stack/amplify-linearvod-dev-134252/fbc6ea40-987e-11ea-b196-0a233d312e0a",
+            "AmplifyAppId": "d2docvakm8mt93"
+        },
+        "categories": {
+            "auth": {
+                "linearvod67ac3767": {}
+            }
+        }
+    }
+}
